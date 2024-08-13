@@ -1,0 +1,8 @@
+Hello, World!
+This is a sample text file.
+It contains several lines of text.
+Each line is read and processed by the generator function.
+You can use this file to test the generator function.
+Feel free to modify the content as needed.
+Have fun coding!
+
